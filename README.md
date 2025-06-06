@@ -13,7 +13,8 @@ anxiety-ml-project/
 ├── rf_model.pkl            # Trained Random Forest model
 ├── scaler.pkl              # Scaler used during preprocessing
 ├── video.link              # Project explanation video 
-├── Anxiety ML project.pptx            
+├── Anxiety ML project.pptx
+├── Anxiety_ML_Project_Report.docx            
 └── README.md               # Project documentation
 ```
 
